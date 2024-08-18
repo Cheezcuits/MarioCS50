@@ -1,2 +1,2 @@
 # MarioCS50
-The 1st problem set in the CS50 from Harvard.
+This is 1st problem set in the CS50 from Harvard.
